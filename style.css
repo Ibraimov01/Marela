@@ -182,14 +182,14 @@ body{
     text-transform: uppercase;
 }
 
-.innovate, .drama{
+.credibly, .dramatic{
     font-family: Cormorant Garamond;
     color: #5F4D5D;
     font-size: 24px;
     margin-right: 50px;
 }
 
-.carrer{
+.cars{
     display: flex;
     align-items: center;
     margin-top: 70px;
@@ -209,13 +209,13 @@ body{
     text-transform: uppercase;
 }
 
-.collab, .object, .inter{
+.collaborate, .objectiv, .and{
     font-family: Cormorant Garamond;
     color: #5F4D5D;
     font-size: 24px;
 }
 
-.balysh{
+.bank{
     margin-left: 144px;
 }
 
@@ -239,14 +239,14 @@ body{
     text-transform: uppercase;
 }
 
-.power, .cred, .energ{
+.seam, .creds, .energs{
     font-family: Cormorant Garamond;
     color: #5F4D5D;
     font-size: 24px;
     margin-right: 50px;
 }
 
-.kreslo, .kreslosecond{
+.armchair, .armchair2{
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -264,14 +264,14 @@ body{
     margin-bottom: 7px;
 }
 
-.tovar{
+.trade{
     font-family: Cormorant Garamond;
     color: #5F4D5D;
     font-size: 24px;
     margin-top: 5px;
 }
 
-.price{
+.cena{
     font-family: Roboto;
     color: #B0B0B0;
     font-size: 16px;
@@ -289,7 +289,7 @@ body{
     margin-top: 55px;
 }
 
-.house, .bigcar, .class{
+.home, .car0, .class0{
     margin-top: 46px;
     padding-left: 150px;
 }
